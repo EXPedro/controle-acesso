@@ -35,7 +35,7 @@ import javax.persistence.Id;
     for the values of primary keys.
   hibernate:
     - @Audited: For each audited entity, a table will be created,
-    which will hold the history of changes made to that entity.
+    which will hold the history of changes made to that entity
 */
 @Getter
 @Setter

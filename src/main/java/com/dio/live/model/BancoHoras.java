@@ -22,7 +22,7 @@ public class BancoHoras {
     @Embeddable
     @Getter
     @Setter
-    public  class BancoHorasId implements Serializable{
+    public  class BancoHorasId implements Serializable{  //pode ser static
         private long idBancoHoras;
         private long idMovimentacao;
         private long idUsuario;

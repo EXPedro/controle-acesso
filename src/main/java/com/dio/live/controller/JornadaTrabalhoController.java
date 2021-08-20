@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.NoSuchElementException;
 
+//CRUD operations
 @RestController
 @RequestMapping("/jornada")
 public class JornadaTrabalhoController {

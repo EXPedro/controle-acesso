@@ -23,6 +23,6 @@ public class Calendario {
     private LocalDateTime dataEspecial;
 }
 
-//!!This class could be replaced by an API that recognizes all special dates in the year!!!
+//!!!This class could be replaced by an API that recognizes all special dates in the year!!!
 
 

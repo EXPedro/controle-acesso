@@ -17,5 +17,5 @@ import javax.persistence.Id;
 public class CategoriaUsuario {
     @Id
     private long id;
-    private String desscricao;  //com erro gramatical mesmo!!
+    private String desscricao;  //com erro gramatical mesmo!
 }
