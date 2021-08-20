@@ -8,9 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-/*
-    Class JornadaService: CRUD operations class
- */
+// Class JornadaService: CRUD operations class
 @Service
 public class JornadaService {
     JornadaRepository jornadaRepository;

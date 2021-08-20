@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class LiveApplicationTests {
 
+    //just introduces to 'Tests', with the @Test annotation
     @Test
     void contextLoads() {
     }

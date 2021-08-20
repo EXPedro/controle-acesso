@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 
-//extending 'JpaRepository', all CRUD operations become available from these interface
+//extending 'JpaRepository', all CRUD operations become available from this interface
 public interface JornadaRepository extends JpaRepository<JornadaTrabalho, Long> {
 }
