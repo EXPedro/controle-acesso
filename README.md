@@ -1,29 +1,13 @@
-#expLIVE
+# API de gerenciamento de ponto e controle de acesso
 
-API REST para gerenciamento de ponto e controle de acesso.
-Desenvolvida na trilha JAVA do bootcamp do Banco Santander 
-realizado pela Digital Innovation One, sob orientação do especialista professor [Rodolfo Gomes]('https://www.linkedin.com/in/rodolfo-gomes%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB-90497b75/').
+:gear: API que gerencia o ponto e o controle de acesso. Utiliza as restrições do estilo de arquitetura __REST__.
 
-Durante o desenvolvimento do projeto foram aprimorados os seguintes conhecimentos:
- 
-- No *framework* **Spring**, com a utilização dos módulos *'boot'* e *'data'* , p.e ,      
-- No **Hibernate Envers**, para auditar classes persistentes mapeando objetos relacionais,    
-- Na biblioteca **Lombok**;   
-- Na ferramenta de linguagem de descrição de interface **Swagger** ;    
-- No gerenciador de bando de dados **H2**;   
-- No uso de *annotations* e na pesquisa pela documentação do framework, bibliotecas e ferramentas utilizados em um projeto;
-- Utilização do 'Postman' com front-end para teste dos métodos CRUD implementados no projeto.
+- Criado com uso do *framework* __spring__      
+- Auditorias de classes persistentes e mapeamento de objetos relacionais com __hibernate envers__   
+- Utilização da biblioteca __lombok__   
+- __Swagger__ 
+- __H2__   
+- Sugestão de utilização do [__Postman__](https://www.postman.com/) como frontend, para testar os métodos __CRUD__ implementados no projeto
+- Concluido em 08/2021.
 
-   
-   &nbsp;
-   
->Concluido em 08/2021.
-
-
-**Java | Spring Boot | Spring Data Jpa | Hibernate | Lombok | Swagger | H2**
-
----
-
-
-
-
+[<img src = "https://encurtador.com.br/iuCOQ" width = "auto" height = "28px">]() ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) [<img src = "https://encurtador.com.br/gmCFQ" width = "auto" height = "28px">](https://encurtador.com.br/gmCFQ) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
